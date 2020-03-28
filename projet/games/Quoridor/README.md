@@ -10,4 +10,4 @@ Utilisez le à partir du main.py en l'important en tant que jeu.
 A tour de rôle, chacun déplace son pion d'une case, ou pose une barrière afin de ralentir l'adversaire. Les pions doivent contourner les barrières, ce qui crée un labyrinthe dont il faut en sortir. Le premier qui atteint la ligne opposée à sa ligne de départ a gagné.
 Comme représenté sous l'image ci-dessous, les lignes d'arrivée sont en bleu, les murs en rouge, les endroits où l'on peut placer un mur en violet et les joueurs en jaune et vert (A et B).
 
-![alt text](https://dwarves.iut-fbleau.fr/git/castel/PT-API-IA-python/raw/master/projet/games/images/quoridor.PNG)
+![https://github.com/aurelien-castel/DUT-Oct-2019-API-IA/blob/master/projet/games/images/quoridor.PNG?raw=true](https://github.com/aurelien-castel/DUT-Oct-2019-API-IA/blob/master/projet/games/images/quoridor.PNG?raw=true)

@@ -12,4 +12,4 @@ python ./Jeu_Nim_tree.py
 Permet de visualiser l'arbre MinMax sur le jeu de Nim et d'y jouer après.
 Cette partie du projet est indépendante et n'est pas connectée au projet, seulement ayant pour but d'avoir un aperçu d'un arbre tel que celui du jeu de Nim. Le code pour générer l'arbre et l'algorithme MinMax sont séparés contrairement au projet.
 
-![alt text](https://dwarves.iut-fbleau.fr/git/castel/PT-API-IA-python/raw/master/projet/agents/optimisation_MinMax/images/ArbreNim.png)
+![https://github.com/aurelien-castel/DUT-Oct-2019-API-IA/blob/master/projet/agents/optimisation_MinMax/images/ArbreNim.png?raw=true](https://github.com/aurelien-castel/DUT-Oct-2019-API-IA/blob/master/projet/agents/optimisation_MinMax/images/ArbreNim.png?raw=true)

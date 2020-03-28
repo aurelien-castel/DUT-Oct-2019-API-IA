@@ -62,8 +62,8 @@ python ./projet -l myfilename.pkl
 ```
 
 ## Manuel du main
-![alt text](https://dwarves.iut-fbleau.fr/git/castel/PT-API-IA-python/raw/master/images/main.jpg)
+![https://github.com/aurelien-castel/DUT-Oct-2019-API-IA/blob/master/images/main.jpg?raw=true](https://github.com/aurelien-castel/DUT-Oct-2019-API-IA/blob/master/images/main.jpg?raw=true)
 
 ## Diagramme de classes et de packages
-![alt text](https://dwarves.iut-fbleau.fr/git/castel/PT-API-IA-python/raw/master/images/Class_Diagram.jpg)
-![alt text](https://dwarves.iut-fbleau.fr/git/castel/PT-API-IA-python/raw/master/images/Package_Diagram.jpg)
+![https://github.com/aurelien-castel/DUT-Oct-2019-API-IA/blob/master/images/Class_Diagram.jpg?raw=true](https://github.com/aurelien-castel/DUT-Oct-2019-API-IA/blob/master/images/Class_Diagram.jpg?raw=true)
+![https://github.com/aurelien-castel/DUT-Oct-2019-API-IA/blob/master/images/Package_Diagram.jpg?raw=true](https://github.com/aurelien-castel/DUT-Oct-2019-API-IA/blob/master/images/Package_Diagram.jpg?raw=true)
