@@ -1,14 +1,14 @@
 # Mode d'emploi
 - [Mode d'emploi](#mode-demploi)
   - [Installation](#installation)
-  - [Utilisation normale](#utilisation-normale)
+  - [Utilisation](#utilisation)
   - [Résumé du projet](#r%c3%a9sum%c3%a9-du-projet)
   - [Arguments supplémentaires](#arguments-suppl%c3%a9mentaires)
   - [Manuel du main](#manuel-du-main)
   - [Diagramme de classes et de packages](#diagramme-de-classes-et-de-packages)
 
 ## Installation
-Mode d'emploi installation, testé sur les machines de l'IUT (Arch Linux):
+Mode d'emploi d'installation, testé sur les machines de l'IUT (Arch Linux):
 ```bash
 python3.7 -m ensurepip --default-pip --user
 ```
@@ -24,7 +24,7 @@ cd ~/.local/bin
 ```bash
 ./pip3 install matplotlib && install numpy
 ```
-## Utilisation normale
+## Utilisation
 Lancez soit à la racine du git
 ```bash
 python ./projet
