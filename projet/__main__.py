@@ -66,8 +66,8 @@ if __name__ == "__main__":
     # v changer ci-dessous le jeu (game) souhaité v
     # game = Nim(10)
     # game = TicTacToe_old()
-    # game = TicTacToe_new()
-    game = Quoridor()
+    game = TicTacToe_new()
+    # game = Quoridor()
 
     # algorithmes/agents ou teachers
     # on peut rajouter autant qu'on veut d'agents ou teachers ici:
@@ -106,13 +106,13 @@ if __name__ == "__main__":
         TurnBased_episodes(game, args.teacher_episodes, False,
                            random, random)  # <-- tests
         """
-        
+
         TurnBased_episodes(game, args.teacher_episodes,
                            False, learners[0], random)
         plot_learners_reward(learners)
         TurnBased_episodes(game, manual_games, True,
                            learners[0], human)  # <-- learners
-        
+
         # ─────────────────────────────  partie save
 
         if args.save:
